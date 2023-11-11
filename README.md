@@ -12,8 +12,8 @@
 - REACT
 - ADOBE PHOTOSHOP
 - FIGMA
-- COREL DRAW
-- ADOBE PREMIER PRO
+- SQL
+- MONGO DB
 
 <!---
 XD69Z/XD69Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
