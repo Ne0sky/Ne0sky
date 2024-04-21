@@ -10,10 +10,11 @@
 - JAVASCRIPT
 - TAILWIND
 - REACT
-- ADOBE PHOTOSHOP
+- NODE
+- EXPRESS
+- MONGO DB
 - FIGMA
 - SQL
-- MONGO DB
 
 <!---
 XD69Z/XD69Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
