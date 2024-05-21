@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Ne0sky
-- 👀 I’m interested in Web development and design.
-- 🌱 I’m currently doing DSA and Web Development.
-- 💞️ I’m looking to collaborate on any project suitable for a newbie.
-- 📫 How to reach me > https://www.linkedin.com/in/akash-dey-75165b201/
+
+Hello, my name is Akash Dey and I am a bachelors's student majoring in Computer Science Engineering. I am a full-stack software developer .My technology stack involves React Js, MongoDB, Node js, Express Js, javascript, Backbone.js, and, HTML/CSS/Bootstrap/Tailwind. Besides programming, I have an immense interest in art, photography, physical fitness and chess.
+
+- 🔭 I’m currently learning full stack development.
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 📫 How to reach me: mailmeakash2@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1rsqj0yGxlxKaZvokHt89CcD5N0WMeksT/view?usp=sharing)
+- 📁 [Portfolio](https://ne0sky.vercel.app/)
+
 
 **Languages and Tools:** 
 
