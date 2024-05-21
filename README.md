@@ -4,7 +4,7 @@ Hello, my name is Akash Dey and I am a bachelors's student majoring in Computer 
 - 🔭 I’m currently learning full stack development.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: mailmeakash2@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1rsqj0yGxlxKaZvokHt89CcD5N0WMeksT/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1frNriFfEIPsxnlJVLm7-UzKV0cb9XPbm/view)
 - 📁 [Portfolio](https://ne0sky.vercel.app/)
 
 
