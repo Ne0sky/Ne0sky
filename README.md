@@ -15,7 +15,7 @@
 - MONGO DB
 - FIGMA
 - SQL
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=ne0sky&show_icons=true&theme=radical)
 <!---
 XD69Z/XD69Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
