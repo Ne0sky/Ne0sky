@@ -14,8 +14,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-ReactJs-black?logo=reactjs&style=social)&nbsp;&nbsp;
-![Node](https://img.shields.io/badge/-Node-black?logo=node&style=socia)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-ReactJs-black?logo=react&style=social)&nbsp;&nbsp;
+![Node](https://img.shields.io/badge/-nodeJs-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Express JS](https://img.shields.io/badge/-Express-black?logo=express&style=social)&nbsp;&nbsp;
 
